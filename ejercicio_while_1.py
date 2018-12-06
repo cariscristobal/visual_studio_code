@@ -1,3 +1,7 @@
+"""Ejercicio 1:
+• Crea un programa que pida números infinitamente. Los números introducidos deben
+ser cada vez mayores El programa finalizará cuando se introduce un número menor que
+el anterior."""
 num1 = int(input("Introduce un número por favor: "))
 num2 = int(input("Introduce un número mayor que : " + str(num1) + "\n"))
 
